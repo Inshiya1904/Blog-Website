@@ -4,7 +4,7 @@ A simple and elegant blog website built with HTML, CSS, and JavaScript. This pro
 
 ## 📸 Screenshots
 
-![Homepage Screenshot](MyBlogs_files)
+![Homepage Screenshot](MyBlog_files)
 *Example: Add screenshots here for visual context.*
 
 ## 🚀 Features
