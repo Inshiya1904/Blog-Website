@@ -1,6 +1,6 @@
 # 🧮 Scientific Calculator Web App
 
-A user-friendly scientific calculator built with **HTML**, **CSS**, and **JavaScript**. This app mimics the functionality and design of a real scientific calculator, supporting both basic and advanced mathematical operations.
+A simple and elegant blog website built with HTML, CSS, and JavaScript. This project demonstrates a clean layout for sharing blog posts with a user-friendly interface.
 
 ## 📸 Preview
 
@@ -8,18 +8,17 @@ A user-friendly scientific calculator built with **HTML**, **CSS**, and **JavaSc
 
 ## 🚀 Features
 
-- ✅ Basic arithmetic operations: `+`, `−`, `×`, `÷`
-- 🧠 Scientific functions: `sin`, `cos`, `tan`, `log`, `ln`, `√`, `^`, `Exp`
-- 🔢 Constants: `π`, `e`
-- 🧮 Additional operations: `x!` (factorial), `%`, `1/x`
-- ⌫ Backspace & `C` (clear)
-- ✨ Styled with a modern and responsive UI
+- Responsive design
+- Homepage with featured posts
+- Blog post detail view
+- Easy-to-navigate layout
+- Custom styling with CSS
 
 ## 🛠️ Tech Stack
 
 - **HTML5** – structure
 - **CSS3** – layout and styling
-- **Vanilla JavaScript** – calculator logic and interactivity
+- **Vanilla JavaScript** – interactivity
 
 ## ▶️ How to Use
 
@@ -32,6 +31,9 @@ https://github.com/Inshiya1904/scientific-calculator.git
 2. **Open index.html in your browser:**
    
 ```bash
+cd scientific-calculator
+open index.html  # or simply double-click it
+```
 cd scientific-calculator
 open index.html  # or simply double-click it
 ```
