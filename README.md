@@ -4,7 +4,7 @@ A simple and elegant blog website built with HTML, CSS, and JavaScript. This pro
 
 ## 📸 Preview
 
-![Calculator Screenshot](./cal.png)
+![Calculator Screenshot](./city.png)
 
 ## 🚀 Features
 
@@ -25,13 +25,13 @@ A simple and elegant blog website built with HTML, CSS, and JavaScript. This pro
 1. **Download or Clone this repository:**
 
 ```bash
-https://github.com/Inshiya1904/scientific-calculator.git
+https://github.com/Inshiya1904/Blog-Website.git
 ```
 
 2. **Open index.html in your browser:**
    
 ```bash
-cd scientific-calculator
+cd Blog-Website
 open index.html  # or simply double-click it
 ```
 cd scientific-calculator
