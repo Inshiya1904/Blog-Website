@@ -1,10 +1,11 @@
-# 🧮 Scientific Calculator Web App
+# 📝 My Awesome Blog
 
 A simple and elegant blog website built with HTML, CSS, and JavaScript. This project demonstrates a clean layout for sharing blog posts with a user-friendly interface.
 
-## 📸 Preview
+## 📸 Screenshots
 
-![Calculator Screenshot](./city.png)
+![Homepage Screenshot](city.png)
+*Example: Add screenshots here for visual context.*
 
 ## 🚀 Features
 
